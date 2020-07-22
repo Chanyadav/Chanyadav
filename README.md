@@ -25,7 +25,7 @@
 
 This is Chandan Yadav.
 I am a Graduate Student majoring in Software Engineering domain at Arizona State University. I am always curious about things and would love to build things that fascinate me.
-I have worked on diverse fields in the past like Robotics, Decision Analytics, Machine Learning, UX Design, Software Development. Build a ton of things which one ever used. Trying to learn things better than yesterday, evolving everyday!
+I have worked on diverse fields in the past like Robotics, Decision Analytics, Machine Learning, UX Design, Software Development. Built a ton of things which one ever used. Trying to learn things better than yesterday, evolving everyday!
 
 
 <img align="right" height="200" width="325" alt="GIF" src="https://github.com/Chanyadav/Chanyadav/blob/master/coder.gif" />
